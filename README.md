@@ -70,3 +70,5 @@ https://github.com/JosueRocha26/notas-atletas/blob/main/LICENCE
 
 Josue Rocha Sampaio de Alencar
 
+josuesampaio.alencar@gmail.com
+
